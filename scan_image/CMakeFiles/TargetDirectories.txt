@@ -1,0 +1,3 @@
+/home/alfa/tuto_opencv/scan_image/CMakeFiles/rebuild_cache.dir
+/home/alfa/tuto_opencv/scan_image/CMakeFiles/edit_cache.dir
+/home/alfa/tuto_opencv/scan_image/CMakeFiles/Scan.dir

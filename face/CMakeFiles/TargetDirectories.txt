@@ -1,0 +1,3 @@
+/home/alfa/tuto_opencv/face/CMakeFiles/edit_cache.dir
+/home/alfa/tuto_opencv/face/CMakeFiles/rebuild_cache.dir
+/home/alfa/tuto_opencv/face/CMakeFiles/Face.dir

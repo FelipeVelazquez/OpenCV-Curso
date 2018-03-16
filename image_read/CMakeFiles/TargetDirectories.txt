@@ -1,0 +1,3 @@
+/home/alfa/tuto_opencv/image_read/CMakeFiles/edit_cache.dir
+/home/alfa/tuto_opencv/image_read/CMakeFiles/rebuild_cache.dir
+/home/alfa/tuto_opencv/image_read/CMakeFiles/DisplayImage.dir

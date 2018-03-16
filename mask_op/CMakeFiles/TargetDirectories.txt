@@ -1,0 +1,3 @@
+/home/alfa/tuto_opencv/mask_op/CMakeFiles/edit_cache.dir
+/home/alfa/tuto_opencv/mask_op/CMakeFiles/rebuild_cache.dir
+/home/alfa/tuto_opencv/mask_op/CMakeFiles/Mask.dir
