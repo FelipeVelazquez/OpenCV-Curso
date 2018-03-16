@@ -1,5 +1,6 @@
 ### OpenCV en C++
 **Requisitos previos:**
+
 **1.-** Tener instalado [Opencv_2.4.xx](https://gist.github.com/dynamicguy/3d1fce8dae65e765f7c4).
 	
 **2.-** Tener instalados los modulos de Opencv Contrib que se pueden obtener de [aqui](https://github.com/opencv/opencv_contrib).
