@@ -7,4 +7,4 @@
 
 En el siguiente repositorio se encuentra un conjunto de codigos para poder demostrar el uso y aplicación de OpenCV usado bajo el lenguaje de C++.
 
-**Este repositorio esta diseñado por Luis Felipe Velazquez Rangel, integrande del equipo I&D en [Smartest.](https://mx.linkedin.com/in/yazmin-huerta-martinez-a50906124)**
+**Este repositorio esta diseñado por Luis Felipe Velazquez Rangel**
